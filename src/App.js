@@ -1,16 +1,17 @@
 import React, {useState, useEffect} from 'react'
 import './App.css'
 import Navbar from './Components/Navbar'
-import {css} from "@emotion/core"
+import Header from './Components/Header'
+import { css } from "@emotion/react";
 import PropagateLoader from 'react-spinners/PropagateLoader'
 
 
 function App() {
-  const[loading, setLoading] = useState(false)
+  const[loading, setLoading] = useState(true)
   const override = css`
-  display:block
-  border-color:red
-  margin-top:20%
+    display:block
+    border-color:red
+    margin-top:20%
   `
 
   useEffect(() => {
@@ -20,7 +21,6 @@ function App() {
     }, 5000)
   },[])
 
-
   return (
     <div className="App">
       {
@@ -28,6 +28,7 @@ function App() {
         :
         <>
         <Navbar/>
+        <Header/>
         </>
       }
     </div>
