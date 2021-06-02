@@ -6,13 +6,13 @@ import PropagateLoader from 'react-spinners/PropagateLoader'
 
 
 function App() {
-
   const[loading, setLoading] = useState(false)
   const override = css`
   display:block
-  border-coloer:red
+  border-color:red
   margin-top:20%
   `
+
   useEffect(() => {
     setLoading(true)
     setTimeout(() => {
