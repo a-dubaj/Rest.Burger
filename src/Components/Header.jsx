@@ -8,7 +8,7 @@ function Header(){
                 <h1><span>BURGER</span> FOR<br/> WEEK</h1>
                 <p className='details'>Lorem ipsum</p>
                 <div className='header-btns'>
-                    <a href='#' className='header-btn'>Order</a>
+                    <a href='/#' className='header-btn'>Order</a>
                 </div>
             </div>
         </div>
