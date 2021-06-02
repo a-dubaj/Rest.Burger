@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Productbox(props) {
-    retudn (
+    return (
         <div className='a-box'>
             <div className='a-b-img'>
                 <img src={props.image} alt=''/>
