@@ -6,8 +6,8 @@ function About(){
         <div id='about'>
             <div className='about-text'>
                 <h1>UPCOMING EVENTS</h1>
-                <p>Lorem impsum dolor amet Lorem impsum dolor ametLorem impsum dolor ametLorem impsum dolor ametLorem
-                Lorem impsum dolor ametLorem impsum dolor ametLorem impsum dolor ametLorem impsum dolor amet</p>
+                <p>Our goal is simple – use fresh ingredients to make the best burger at a fair price.
+                Our newest motto is also simple – it’s time to share Schoop’s.</p>
                 <button>Read More</button>
             </div>
             <div className='about-image'>

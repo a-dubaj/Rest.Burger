@@ -7,8 +7,8 @@ function Products() {
     return(
         <div id='products'>
             <h1>CHOOSE & ENJOY</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis maxime voluptate, quis
-                nostrum aliquid!</p>
+            <p>THE FINEST HAMBURGER ON THIS SIDE OF THE MOON
+                Serving deliciousness in Illinois and Indiana since 1948</p>
             <div className='a-container'>
                 <Productbox image={pimage1} title="Luger Burger"/>
                 <Productbox image={pimage2} title="Le Pigeon Burger"/>
