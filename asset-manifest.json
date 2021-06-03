@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d659eaf.chunk.css",
-    "main.js": "/static/js/main.0d724a4f.chunk.js",
-    "main.js.map": "/static/js/main.0d724a4f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90999001.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90999001.js.map",
-    "static/js/2.7ca2295c.chunk.js": "/static/js/2.7ca2295c.chunk.js",
-    "static/js/2.7ca2295c.chunk.js.map": "/static/js/2.7ca2295c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4d659eaf.chunk.css.map": "/static/css/main.4d659eaf.chunk.css.map",
-    "static/js/2.7ca2295c.chunk.js.LICENSE.txt": "/static/js/2.7ca2295c.chunk.js.LICENSE.txt",
-    "static/media/about.5cfaf8a9.png": "/static/media/about.5cfaf8a9.png",
-    "static/media/index.css": "/static/media/footer.53806b7d.png",
-    "static/media/s1.8a4fa455.png": "/static/media/s1.8a4fa455.png",
-    "static/media/s2.b0665d18.png": "/static/media/s2.b0665d18.png"
+    "main.css": "/RestBurger/static/css/main.b92be965.chunk.css",
+    "main.js": "/RestBurger/static/js/main.0d724a4f.chunk.js",
+    "main.js.map": "/RestBurger/static/js/main.0d724a4f.chunk.js.map",
+    "runtime-main.js": "/RestBurger/static/js/runtime-main.c57c5bbf.js",
+    "runtime-main.js.map": "/RestBurger/static/js/runtime-main.c57c5bbf.js.map",
+    "static/js/2.7ca2295c.chunk.js": "/RestBurger/static/js/2.7ca2295c.chunk.js",
+    "static/js/2.7ca2295c.chunk.js.map": "/RestBurger/static/js/2.7ca2295c.chunk.js.map",
+    "index.html": "/RestBurger/index.html",
+    "static/css/main.b92be965.chunk.css.map": "/RestBurger/static/css/main.b92be965.chunk.css.map",
+    "static/js/2.7ca2295c.chunk.js.LICENSE.txt": "/RestBurger/static/js/2.7ca2295c.chunk.js.LICENSE.txt",
+    "static/media/about.5cfaf8a9.png": "/RestBurger/static/media/about.5cfaf8a9.png",
+    "static/media/index.css": "/RestBurger/static/media/footer.53806b7d.png",
+    "static/media/s1.8a4fa455.png": "/RestBurger/static/media/s1.8a4fa455.png",
+    "static/media/s2.b0665d18.png": "/RestBurger/static/media/s2.b0665d18.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.90999001.js",
+    "static/js/runtime-main.c57c5bbf.js",
     "static/js/2.7ca2295c.chunk.js",
-    "static/css/main.4d659eaf.chunk.css",
+    "static/css/main.b92be965.chunk.css",
     "static/js/main.0d724a4f.chunk.js"
   ]
 }
